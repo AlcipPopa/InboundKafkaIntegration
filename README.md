@@ -1,4 +1,4 @@
-Example of Kafka Consumer in Spring Boot
+Example of Kafka Consumer in Spring Boot Integration
 
 Remember to modify "application.yaml" file with your options.
 
